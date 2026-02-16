@@ -122,7 +122,7 @@ The model successfully identifies fraudulent transactions with improved accuracy
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ikanhaiya25/Fraud-Dectections.git
 
 2. Navigate to Project Directory
 
