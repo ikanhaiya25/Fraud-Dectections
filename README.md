@@ -126,7 +126,7 @@ git clone https://github.com/ikanhaiya25/Fraud-Dectections.git
 
 2. Navigate to Project Directory
 
-cd your-repo-name
+cd Fraud-Dectections
 
 3. Install Dependencies
 
